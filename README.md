@@ -3,7 +3,11 @@
 One image that sums up a whole day of world news: the front page of
 an imaginary Sunday newspaper dated **Sunday, 22 November 2026**,
 drawn at 1024x1024 so the date and every headline stay readable even
-when the picture is shrunk to a thumbnail.
+when the picture is shrunk to a thumbnail. This completed-day
+edition carries **36 stories from 6 continents**: a lead report, a
+dotted world map whose numbered pins match the stories, 35 numbered
+briefs in three columns, and a sources line along the foot of the
+page.
 
 This repository is an entry in the make.fun competition
 [Sum up 22 November's world news in one image](https://make.fun/c/news-image-20261122).
@@ -14,28 +18,32 @@ This repository is an entry in the make.fun competition
 
 ## What the front page reports
 
-Six stories made the page, chosen to span regions and subjects:
+The lead is the day's biggest story: **COP31 collapsed without a
+deal**. Nearly 200 nations failed over fossil fuels in Antalya —
+the EU rejected a text that named none, the $120 billion adaptation
+goal was dropped, and the longest climate summit on record ended in
+the first such failure since Copenhagen in 2009.
 
-1. **Climate, Antalya** — the COP31 talks ran past their Friday
-   deadline, and on Sunday the presidency put a final package to
-   nearly 200 nations: electricity should reach 35% of world final
-   energy by 2035, yet the text still names no fossil-fuel phase-out.
-2. **Europe, Warsaw and Kyiv** — NATO's chief Mark Rutte vowed the
-   alliance "will defend every inch of Polish territory" after
-   Russian missiles and a drone violated Polish airspace; NATO's
-   council meets Monday in Brussels.
-3. **Brazil, deadly storm** — a supercell levelled much of
-   Tupanciretã in Rio Grande do Sul: 4 dead, 162 injured, about
-   8,000 homes damaged and almost 20,000 people displaced.
-4. **Nigeria, boat disaster** — a crowded funeral boat capsized on
-   its way to a burial in Bayelsa State; at least 24 people died
-   and the search continued through the day.
-5. **Mexico, cartel raid** — special forces captured Fausto
-   "El Chapo Isidro" Meza Flores, one of the FBI's ten most wanted,
-   in Guasave, Sinaloa; gun battles around the raid killed 11.
-6. **United States, cyber** — hackers breached an FBI criminal
-   database for the second time since September, and a farm-payment
-   system was hit in the same wave of intrusions.
+Around it, the 35 numbered briefs cover the rest of the Sunday:
+NATO's vow to defend every inch of Poland and Russian strikes on
+Sloviansk; France's sixth protest weekend, a Brexit row in London
+and a rejected EU budget; Liverpool's 4-0 rout of Manchester
+United, Barcelona's comeback and Alcaraz's ATP Finals crown; a
+Houthi missile intercepted over the Red Sea and Iran's terms for
+reopening Hormuz; Shuri Castle restored in Naha, a sumo title in
+Fukuoka and a snowbound Fukushima village reconnected; a factory
+fire in Indonesia, mass food poisoning in India, floods in
+Selangor, Nepal's prime minister in Delhi, China's second cruise
+ship and a Singapore film's Golden Horse double; a capsized
+funeral boat in Nigeria, a Russian corvette sunk by sea drones in
+Benghazi and drones over Khartoum; the capture of an FBI
+most-wanted cartel boss in Mexico, another FBI database breach,
+a promised 10% cap on card interest, an abolish-ICE call in
+Seattle, Verstappen's Las Vegas win and Kansas City's first NWSL
+title; a town levelled by a Brazilian supercell and Boca Juniors'
+Copa Sudamericana; and in Oceania a record Indian Test total in
+Wellington, a Pacific rugby sweep led by Fiji, Brisbane's upset
+of Sydney in the NBL, and a weakening cyclone in the Cook Islands.
 
 ## How the entry runs
 
